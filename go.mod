@@ -5,7 +5,7 @@ go 1.21
 toolchain go1.22.2
 
 require (
-	github.com/BurntSushi/toml v1.4.0
+	github.com/BurntSushi/toml v1.6.0
 	github.com/Jeffail/gabs/v2 v2.7.0
 	github.com/cookieY/sqlx v1.3.0
 	github.com/cookieY/yee v0.5.2
